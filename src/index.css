@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+    font-family: 'Space Mono', monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+   background-image: url(../src/img/passwordmeeting.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; 
+ 
+}
+
+code {
+  font-family: 'Space Mono', monospace;
+}
+
